@@ -15,6 +15,9 @@
 ### Project Overview
 This project involves the analysis of IBM’s HR dataset to uncover trends and patterns in employee demographics, job roles, and compensation. The goal is to provide insights into workforce distribution across different categories such as age, gender, job roles, education field, department, marital status, and business travel frequency.
 
+![IBM HR Screenshot](https://github.com/user-attachments/assets/a600ee8e-c45b-4f88-aac5-06a72e516644)
+
+
 ### Objectives
 The primary objectives of this project are:
 1.	To analyze workforce demographics by evaluating age, gender, education, and marital status distributions.
